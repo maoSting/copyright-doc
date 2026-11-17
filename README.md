@@ -2,7 +2,7 @@
 计算机软件著作权，源代码文档生成工具
 
 
-[获取jetbrains idea 插件]([https://markdown.com.cn](https://plugins.jetbrains.com/plugin/27756-source-code-doc-generation))。
+[获取jetbrains idea 插件](https://plugins.jetbrains.com/plugin/27756-source-code-doc-generation)
 
 支持IntelliJ IDEA，WebStorm，PhpStorm，PyCharm，RubyMine，Rider，CLion，GoLand，RustRover
 
