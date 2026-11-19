@@ -1,6 +1,8 @@
 # copyright-doc
+
 计算机软件著作权，源代码文档生成工具
 
+**idea插件-计算机软件著作源代码生成文档**
 
 [获取jetbrains idea 插件](https://plugins.jetbrains.com/plugin/27756-source-code-doc-generation)
 
